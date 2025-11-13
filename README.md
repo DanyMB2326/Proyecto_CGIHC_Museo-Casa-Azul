@@ -50,6 +50,13 @@ Se recomienda configurar el proyecto usando un sistema de compilación como **CM
 Asegúrate de que las bibliotecas (`.lib` o `.a`) estén enlazadas correctamente y que los archivos DLL (en Windows) estén en el directorio de ejecución.
 
 ---
+## 📥 Descarga de Recursos (Alternativa)
+
+Este proyecto contiene archivos pesados (modelos 3D y texturas) que se gestionan mediante **Git LFS**. Si tienes problemas para clonar el repositorio o las descargas fallan, puedes descargar los recursos completos manualmente desde el siguiente enlace:
+
+👉 **[Google Drive: Recursos del Museo Casa Azul](https://drive.google.com/drive/folders/1ovYkRfOgX9d8JWWhH-Gmzn-7gry0F6vC?usp=sharing)**
+
+---
 
 ## 🎮 Controles
 
