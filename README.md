@@ -91,8 +91,3 @@ Asegúrate de que las bibliotecas (`.lib` o `.a`) estén enlazadas correctamente
 | :--- | :--- |
 | **ESC** | Cerrar la aplicación |
 
----
-
-## 📁 Estructura de Archivos (Requerida)
-
-Para que el programa funcione correctamente, los recursos deben estar en las siguientes carpetas relativas al ejecutable:
